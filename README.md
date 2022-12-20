@@ -16,5 +16,6 @@ eligible to borrow a loan from the bank or not.
 
 ![Screen Shot 2022-12-20 at 10 27 03 PM](https://user-images.githubusercontent.com/113824293/208755783-42504400-b48d-4a38-90e3-a14c7e7919ac.png)
 
+------------------------------------------------------------------------------------------------
 ### Files:
-pipeline
+Regression_and_Classification.ipynb Include Thre regression and classification model 
